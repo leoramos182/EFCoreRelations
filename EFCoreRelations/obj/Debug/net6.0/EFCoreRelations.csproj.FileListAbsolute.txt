@@ -59,3 +59,8 @@ C:\Users\USUARIO\Desktop\EFCoreRelations\EFCoreRelations\obj\Debug\net6.0\EFCore
 C:\Users\USUARIO\Desktop\EFCoreRelations\EFCoreRelations\obj\Debug\net6.0\EFCoreRelations.genruntimeconfig.cache
 C:\Users\USUARIO\Desktop\EFCoreRelations\EFCoreRelations\bin\Debug\net6.0\Humanizer.dll
 C:\Users\USUARIO\Desktop\EFCoreRelations\EFCoreRelations\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\USUARIO\Desktop\EFCoreRelations\EFCoreRelations\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\USUARIO\Desktop\EFCoreRelations\EFCoreRelations\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\USUARIO\Desktop\EFCoreRelations\EFCoreRelations\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\USUARIO\Desktop\EFCoreRelations\EFCoreRelations\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\USUARIO\Desktop\EFCoreRelations\EFCoreRelations\obj\Debug\net6.0\EFCoreRelations.MvcApplicationPartsAssemblyInfo.cs
