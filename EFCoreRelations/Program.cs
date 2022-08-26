@@ -23,12 +23,14 @@ builder.Services.AddDbContext<DataContext>(
 
 var app = builder.Build();
 
+app.MapControllers();
 app.UseSwagger();
 app.UseSwaggerUI(c =>
 {
     c.SwaggerEndpoint("/swagger/v1/swagger.json", "Entity Framework Relations API");
     c.RoutePrefix = String.Empty;
 });
+
 
 
 // Configure the HTTP request pipeline.

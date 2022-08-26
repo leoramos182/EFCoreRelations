@@ -4,14 +4,13 @@
     "anonymousAuthentication": true,
     "iisExpress": {
       "applicationUrl": "http://localhost:45796",
-      "sslPort": 44368
+      "sslPort": 0
     }
   },
   "profiles": {
     "EFCoreRelations": {
       "commandName": "Project",
       "launchBrowser": true,
-      "launchUrl": "",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       },
