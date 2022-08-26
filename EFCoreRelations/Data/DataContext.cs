@@ -18,7 +18,7 @@ namespace EFCoreRelations.Data
             if (!optionsBuilder.IsConfigured)
             {
                 optionsBuilder.UseSqlServer(
-                "Host=TimescaleDB;Port=5432;Database=valutecdb;Username=postgres;Password=pwd");
+                "server=.\\sqlexpress;database=efcoretest;trusted_connection=true;");
             }
         }
 

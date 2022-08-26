@@ -11,7 +11,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace EFCoreRelations.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20220826150741_UserEntity")]
+    [Migration("20220826152836_UserEntity")]
     partial class UserEntity
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
