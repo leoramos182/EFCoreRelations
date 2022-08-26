@@ -1,5 +1,5 @@
 # EFCoreRelations
-App de estudo sobre os relacionamentos com Entity Framework Core
+App de estudo sobre relacionamentos com Entity Framework Core
 
 ## Pacotes Nuget para instalar:
 * EntityFramework Core
